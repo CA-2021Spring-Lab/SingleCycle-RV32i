@@ -17,7 +17,7 @@ clone 仓库
 ```bash
 git clone https://github.com/CA-2021Spring-Lab/SingleCycle-RV32i
 # or git clone https://gitee.com/ca-2021-spring-lab/SingleCycle-RV32i
-cd Instr-Mem
+cd SingleCycle-RV32i
 ```
 
 进入仓库，拉取镜像
